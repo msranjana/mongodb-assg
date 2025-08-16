@@ -51,7 +51,7 @@ Voice Input (Browser) → Speech-to-Text (AssemblyAI) → AI Processing (Gemini)
 1.  Clone the repository:
     ```bash
     git clone <repository-url>
-    cd voice-agent
+    cd ava
     ```
 
 2.  Create & activate a virtual environment:
